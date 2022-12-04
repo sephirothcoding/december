@@ -9,7 +9,7 @@
   overflow: hidden
   z-index: 2
   pointer-events: none
-  background-color: red
+  background-color: transparent;
 
 .snow
   $foreground-speed: 15s
