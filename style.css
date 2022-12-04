@@ -7,7 +7,7 @@
   overflow: hidden;
   z-index: 2;
   pointer-events: none;
-  background-color: red;
+  background-color: rgb(0 0 0 / 20%);
 }
 
 .snow {
