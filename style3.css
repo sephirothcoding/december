@@ -15,11 +15,11 @@
 
 
 .street-machine {
-  position: relative;
+  position: right;
 }
 
 .street {
-  position: relative;
+  position: right;
   font-family: 'Mr Dafoe', cursive;
   font-size: 180px;
   font-style: italic;
@@ -35,7 +35,7 @@
 
 .street:before {
   content: '';
-  position: absolute;
+  position: right;
   height: 4px;
   width: 665px;
   top: 83px;
@@ -51,7 +51,7 @@
 
 .street:after {
   content: '';
-  position: absolute;
+  position: right;
   height: 4px;
   width: 639px;
   top: 109px;
@@ -61,7 +61,7 @@
 }
 
 .machine {
-  position: absolute;
+  position: right;
   left: 50px;
   top: 350px;
   font-family: 'Mr Dafoe', cursive;
@@ -81,219 +81,7 @@
 }
 
 
-
-@-webkit-keyframes chrome_effect {
-  0% {background-position:-680px 0;}
-  10% {background-position:420px 0;}
-  100% {background-position:420px 0;}
-}
-
-@-webkit-keyframes cop_before_effect {
-  0% {
-    left: 51px;
-    top: 74px;
-    opacity: 0;}
-  
-  15% {
-    left: 51px;
-    top: 74px;
-    opacity: 1;}
-  
-  30% {
-    left: 51px;
-    top: 74px;
-    opacity: 0;}
-  
-  35% {
-    left: 370px;
-    top: 45px;
-    opacity: 0;}
-   
-  50% {
-    left: 370px;
-    top: 45px;
-    opacity: 1;}
-  
-  65% {
-    left: 370px;
-    top: 45px;
-    opacity: 0;}
-  
-  70% {
-    left: 564px;
-    top: 74px;
-    opacity: 0;}
-   
-  85% {
-    left: 564px;
-    top: 74px;
-    opacity: 1;}
-  
-  100% {
-    left: 564px;
-    top: 74px;
-    opacity: 0;}
-}
-
-@-webkit-keyframes cop_after_effect {
-  0% {
-    left: 90px;
-    top: 32px;
-    opacity: 0;}
-  
-  15% {
-    left: 90px;
-    top: 32px;
-    opacity: 1;}
-  
-  30% {
-    left: 90px;
-    top: 32px;
-    opacity: 0;}
-  
-  35% {
-    left: 413px;
-    top: 11px;
-    opacity: 0;}
-   
-  50% {
-    left: 413px;
-    top: 11px;
-    opacity: 1;}
-  
-  65% {
-    left: 413px;
-    top: 11px;
-    opacity: 0;}
-  
-  70% {
-    left: 603px;
-    top: 32px;
-    opacity: 0;}
-   
-  85% {
-    left: 603px;
-    top: 32px;
-    opacity: 1;}
-  
-  100% {
-    left: 603px;
-    top: 32px;
-    opacity: 0;}
-}
-
-
-
-/////
-
-
-
-}
-
-@-webkit-keyframes chrome_effect {
-  0% {background-position:-680px 0;}
-  10% {background-position:420px 0;}
-  100% {background-position:420px 0;}
-}
-
-@-webkit-keyframes cop_before_effect {
-  0% {
-    left: 51px;
-    top: 74px;
-    opacity: 0;}
-  
-  15% {
-    left: 51px;
-    top: 74px;
-    opacity: 1;}
-  
-  30% {
-    left: 51px;
-    top: 74px;
-    opacity: 0;}
-  
-  35% {
-    left: 370px;
-    top: 45px;
-    opacity: 0;}
-   
-  50% {
-    left: 370px;
-    top: 45px;
-    opacity: 1;}
-  
-  65% {
-    left: 370px;
-    top: 45px;
-    opacity: 0;}
-  
-  70% {
-    left: 564px;
-    top: 74px;
-    opacity: 0;}
-   
-  85% {
-    left: 564px;
-    top: 74px;
-    opacity: 1;}
-  
-  100% {
-    left: 564px;
-    top: 74px;
-    opacity: 0;}
-}
-
-@-webkit-keyframes cop_after_effect {
-  0% {
-    left: 90px;
-    top: 32px;
-    opacity: 0;}
-  
-  15% {
-    left: 90px;
-    top: 32px;
-    opacity: 1;}
-  
-  30% {
-    left: 90px;
-    top: 32px;
-    opacity: 0;}
-  
-  35% {
-    left: 413px;
-    top: 11px;
-    opacity: 0;}
-   
-  50% {
-    left: 413px;
-    top: 11px;
-    opacity: 1;}
-  
-  65% {
-    left: 413px;
-    top: 11px;
-    opacity: 0;}
-  
-  70% {
-    left: 603px;
-    top: 32px;
-    opacity: 0;}
-   
-  85% {
-    left: 603px;
-    top: 32px;
-    opacity: 1;}
-  
-  100% {
-    left: 603px;
-    top: 32px;
-    opacity: 0;}
-}
-
-
-
-
-
+////////
 
 
 
