@@ -8,8 +8,15 @@
 
 @import url(https://fonts.googleapis.com/css?family=Monoton);
 
+h1 {
+  text-align: right;
+  vertical-align: middle;
+}
 
-
+h3 {
+  text-align: right;
+  vertical-align: middle;
+}
 
 
 
